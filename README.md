@@ -8,9 +8,9 @@ By using this Service, you agree to the collection and use of information in acc
 
 ## Information Collection and Use
 
-Information We Collect
+1.Information We Collect
 
-1.Shirtify only collects the minimum information necessary to provide our services effectively:
+Shirtify only collects the minimum information necessary to provide our services effectively:
 
 Name: Used to personalize your shopping experience and process orders.
 Email Address: Used to send order confirmations, updates, and customer support communication.
@@ -25,7 +25,7 @@ National ID numbers or government-issued identification
 Contacts, SMS, or call logs
 Camera, microphone, or other device data not required for app functionality
 
-4. How Your Information Is Used
+How Your Information Is Used
 
 The information we collect is used solely for the following purposes:
 Processing and fulfilling orders
