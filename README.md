@@ -8,29 +8,29 @@ By using this Service, you agree to the collection and use of information in acc
 
 ## Information Collection and Use
 
-1.Information We Collect
+Information We Collect
 Shirtify only collects the minimum information necessary to provide our services effectively:
 
-Name: Used to personalize your shopping experience and process orders.
+1.Name: Used to personalize your shopping experience and process orders.
 
-Email Address: Used to send order confirmations, updates, and customer support communication.
+2.Email Address: Used to send order confirmations, updates, and customer support communication.
 
-Shipping Address: Required to deliver products you purchase through the app.
+3.Shipping Address: Required to deliver products you purchase through the app.
 
-Phone Number (Optional) : Used only for order delivery communication or customer support purposes.
+4.Phone Number (Optional) : Used only for order delivery communication or customer support purposes.
 
-2. Information We Do NOT Collect
+Information We Do NOT Collect
 We respect your privacy and do not collect sensitive information that is unnecessary for the app to function:
 
-Bank account numbers or card PINs
+1.Bank account numbers or card PINs
 
-National ID numbers or government-issued identification
+2.National ID numbers or government-issued identification
 
-Contacts
-SMS 
-call logs
-Camera
-microphone or other device data not required for app functionality
+3.Contacts
+4.SMS 
+5.call logs
+6.Camera
+7.Microphone or other device data not required for app functionality
 
 How Your Information Is Used
 
@@ -44,9 +44,11 @@ Improving our app and services
 
 Sending important updates related to your orders or the app
 
-4. How Your Data Is Stored and Protected
+How Your Data Is Stored and Protected
 
-Shirtify takes your data security seriously. Your information is:
+Shirtify takes your data security seriously. 
+
+Your information is:
 Stored securely using encryption and modern security protocols
 Accessed only by authorized personnel needed to provide services
 Never shared or sold to third parties for marketing purposes
@@ -72,7 +74,9 @@ You can manage or disable cookies through your device or browser settings.
 
 ## Service Providers
 
-We may engage third-party companies and individuals to facilitate the Service, perform Service-related tasks, or analyze how the Service is used. These third parties are permitted to access information only to perform these tasks and are obligated not to disclose or use it for any other purpose.
+We may engage third-party companies and individuals to facilitate the Service, perform Service-related tasks, or analyze how the Service is used. 
+
+These third parties are permitted to access information only to perform these tasks and are obligated not to disclose or use it for any other purpose.
 
 ## Security
 
